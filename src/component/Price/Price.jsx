@@ -13,13 +13,15 @@ const Price = () => {
       
     return (
         <div>
-            <h2>Price list</h2>
+            <h1 className='font-bold text-center text-5xl text-green-950'>Awesome Affodable Product</h1>
+            <div className='grid md:grid-cols-3 gap-4 mt-4 mx-12'>
             {
                 price.map(prices=> <PriceCard
                 key={prices.id}
                 prices={prices}
                 ></PriceCard>)
             }
+            </div>
         </div>
     );
 };

@@ -4,7 +4,11 @@
       "name": "Basic",
       "price": 20.99,
       "features": [
-        "Locker room"
+        "Unplug and replug the SD card.",
+        "Switch the USB port, and change an ",
+       " Reconnect the SD Card to a new .",
+        "Check if the SD card is accessible."
+    
       ]
     },
     {
@@ -12,7 +16,12 @@
       "name": "Standard",
       "price": 34.99,
       "features": [
-        "Group fitness classes"
+        "Unplug and replug the SD card.",
+        "Switch the USB port, and change an ",
+       " Reconnect the SD Card to a new .",
+        "Check if the SD card is accessible."
+    
+        
       ]
     },
     {
@@ -20,7 +29,11 @@
       "name": "Premium",
       "price": 49.99,
       "features": [
-        "Access to cardio equipment"
+        "Unplug and replug the SD card.",
+        "Switch the USB port, and change an ",
+       " Reconnect the SD Card to a new .",
+        "Check if the SD card is accessible."
+    
        
       ]
     }
