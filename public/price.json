@@ -1,0 +1,28 @@
+ [
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 20.99,
+      "features": [
+        "Locker room"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": 34.99,
+      "features": [
+        "Group fitness classes"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "price": 49.99,
+      "features": [
+        "Access to cardio equipment"
+       
+      ]
+    }
+  ]
+  
